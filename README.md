@@ -20,4 +20,4 @@ Go to CodeSkulptor.com, clear the existing contents on the left hand side and co
 Click on the play button to run the program.
 
 
-This was done as a part of the Coursera Course - Interactive Programming using Python
+This was done as a part of the Coursera Course - Interactive Programming in Python ( by Rice University )
